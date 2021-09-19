@@ -1,8 +1,7 @@
 # `bowlo`
+![GitHub last commit](https://img.shields.io/github/last-commit/steven-mathew/bowlo)
 
 *Note: All code has been submitted on time. Any edits are housekeeping and chores such as removing unneeded files or adding sources.*
-
-![GitHub last commit](https://img.shields.io/github/last-commit/steven-mathew/bowlo)
 
 ## 💡 Inspiration
 In the current geopolitical climate, there are people in situations where it is unsafe to speak up about issues such as corruption, oppression, and social injustice. We hoped to create a place that provided enough protection so anyone can feel comfortable sharing their stories.
