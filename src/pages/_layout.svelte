@@ -17,8 +17,7 @@
       <span>Hello <strong>{$username}</strong></span>
       <img src={`https://avatars.dicebear.com/api/initials/${$username}.svg`} alt="avatar" /> 
     </div>
-       jdiv id="siteHeader__communities">
-       </div>
+       <div id="siteHeader__communities"></div>
     <button class="siteHeader__community" on:click={signout}>Sign Out</button>
     {/if}
 
