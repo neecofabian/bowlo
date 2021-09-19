@@ -1,4 +1,6 @@
 <script>
+/* Lots of thanks from: https://github.com/justinharkey/sveltereddit */
+
 	/* export let postData; */
 	import { getRelativeDateString, getAbbreviatedNumberString } from '../../utils.ts';
 	import { params } from '@sveltech/routify';
